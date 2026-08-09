@@ -1,6 +1,6 @@
 ## Hi, I'm Sinisa 👋
 
-**Fintech product engineer.** 14 years in regulated banking, payments and
+**Fintech product engineer.** 14 years in regulated banking, payments, wealth management and
 consumer finance. Zagreb, remote across US and EU time zones.
 
 I ship features end to end. Frontend is my strongest layer, but I own the
