@@ -9,8 +9,10 @@ schema and deploy when that's what the feature needs.
 
 **Currently building** [yourmonthly.app](https://yourmonthly.app), a live
 personal finance product I designed, built and maintain alone. React,
-TypeScript, GraphQL, Prisma, Postgres, plus a PWA. Source is public below,
-including the security notes.
+TypeScript, GraphQL, Prisma, Postgres, plus a PWA. Source is public below.
+
+The `CLAUDE.md` and `SECURITY.md` files in those repos are the conventions I
+actually work by, not documentation written to be read.
 
 **Previously** international payments at Glean, marketplace search at Credit
 Karma, core product at solarisBank in Berlin. Co-founded Movieo, which hit the
