@@ -1,6 +1,6 @@
 ## Hi, I'm Sinisa 👋
 
-**Fintech product engineer.** Building the features that move money since 2012:
+**Senior product engineer.** Building the features that move money since 2012:
 regulated banking, payments, wealth management and consumer finance. Zagreb,
 remote across US and EU time zones.
 
