@@ -1,8 +1,8 @@
 ## Hi, I'm Sinisa 👋
 
-**Senior product engineer.** Building the features that move money since 2012:
-regulated banking, payments, wealth management and consumer finance. Zagreb,
-remote across US and EU time zones.
+**Senior product engineer.** Since 2012 I've been building web and mobile products end to end, with most of my depth in fintech: 
+regulated banking, payments, wealth management, consumer finance. 
+Zagreb, remote across US and EU time zones.
 
 I ship features end to end. Frontend is my strongest layer, but I own the API,
 schema and deploy when that's what the feature needs.
